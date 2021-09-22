@@ -384,6 +384,7 @@ và thẻ li con trực tiếp của thẻ ul có id = nav */
     filter: grayscale(50%);
 }
 
+/* Begin footer */
 #footer {
     padding: 64px 16px;
     text-align: center;
@@ -412,3 +413,4 @@ và thẻ li con trực tiếp của thẻ ul có id = nav */
 #footer .copyright a {
     color: rgba(0, 0, 0, 0.6);
 }
+/* End footer */
