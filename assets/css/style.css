@@ -365,8 +365,15 @@ và thẻ li con trực tiếp của thẻ ul có id = nav */
     padding: 8px 16px;
     background-color: #000;
     color: #fff;
-    border: 1px solid #000;
     float: right;
+    border: none;
+    cursor: pointer;
+}
+
+.contact-form .contact-submit-btn:hover {
+    background-color: #ccc;
+    color: #000;
+
 }
 
 /* End Contact */
